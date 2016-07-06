@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[iamvitaliy]]></title>
         <description><![CDATA[iamvitaliy]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/iamvitaliy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jul 2016 02:48:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 06 Jul 2016 02:48:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/iamvitaliy/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bolivia]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac989c35-bbcd-485c-ac35-70164869edc5.jpg">]]></description>
+            <link>https://thegrid.ai/iamvitaliy/bolivia/index.html</link>
+            <guid isPermaLink="false">cadfc4ae-bdd8-49dc-8a14-013faa363165</guid>
+            <pubDate>Wed, 06 Jul 2016 02:48:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Architecture]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e68c2d5e-d435-4044-acca-61104677024e.jpg">]]></description>
-            <link>undefinedarchitecture/index.html</link>
+            <link>https://thegrid.ai/iamvitaliy/architecture/index.html</link>
             <guid isPermaLink="false">4ce72b6e-e6b9-4fde-a266-9c107e376d4f</guid>
             <pubDate>Wed, 06 Jul 2016 02:48:07 GMT</pubDate>
         </item>
